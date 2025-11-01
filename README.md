@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - Nama: **Firda**
 - Link: [GitHub](https://github.com/fyrdakk)
-- ![Banner](pp_github.jpg)
+- ![Banner](pp-github.jpg)
